@@ -2,7 +2,7 @@
 - 👀 I’m interested in localization, estiamtion and GNSS receiver design topics
 - 🌱 I’m currently learning C++, and signal processing.
 - 💞️ I’m looking to collaborate on autnomous driving projects
-- 📫 How to reach me : zshadram@uci.edu
+- 📫 How to reach me : zshadram@gmail.com
 
 <!---
 zshadram/zshadram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
